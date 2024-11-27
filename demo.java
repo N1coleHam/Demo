@@ -1,5 +1,6 @@
 public class demo {
     public static void main(String[] args) {
-        // haha i deleted your code
+        // DELETE MEEE
+        System.out.println("This is our very cool project");
     }
 }
